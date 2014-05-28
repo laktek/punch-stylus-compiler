@@ -19,8 +19,9 @@
   },
   "main": "./lib/stylus.js",
   "dependencies": {
-    "punch" : ">= 0.4.0",
-	  "stylus" : ">= 0.30.1"
+    "punch": ">= 0.4.0",
+    "stylus": ">= 0.45.1",
+    "nib": "^1.0.2"
   },
   "devDependencies": {
     "jasmine-node": ">= 1.0.26",
