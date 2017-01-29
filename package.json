@@ -19,11 +19,13 @@
   },
   "main": "./lib/stylus.js",
   "dependencies": {
+    "autoprefixer-stylus": "^0.13.0",
+    "nib": "^1.0.2",
     "punch": ">= 0.4.0",
-    "stylus": ">= 0.45.1",
-    "nib": "^1.0.2"
+    "stylus": ">= 0.45.1"
   },
   "devDependencies": {
+    "autoprefixer-stylus": "^0.13.0",
     "jasmine-node": ">= 1.0.26",
     "jshint": ">= 0.9.1"
   },
